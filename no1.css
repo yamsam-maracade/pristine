@@ -1,0 +1,30 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    background-color: aquamarine;
+}
+header{
+    color: blue;
+    background-color: antiquewhite;
+}
+nav ul li a {
+    color: blueviolet;
+    text-decoration: solid;
+}
+#services{
+    padding: 20px;
+}
+.service{
+    background-color: beige;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+form button :hover{
+    background-color: red;
+}
+footer{
+    text-align: center;
+    background-color: brown;
+    color: black;
+}
