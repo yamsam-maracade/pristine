@@ -2,6 +2,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
     background-color: aquamarine;
+    padding: 20px;
 }
 header{
     color: blue;
@@ -17,7 +18,7 @@ nav ul li a {
 .service{
     background-color: beige;
     margin: 20px;
-    padding: 15px;
+    padding: 20px;
     border-radius: 10px;
 }
 form button :hover{
@@ -27,4 +28,7 @@ footer{
     text-align: center;
     background-color: brown;
     color: black;
+}
+#about{
+    padding: 20px;
 }
