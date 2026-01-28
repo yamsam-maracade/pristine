@@ -1,12 +1,14 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    margin: auto;
+    margin: 20px;
+    padding: 20px;
     background-color: aquamarine;
 }
 header{
     color: darkblue;
     background-color: beige;
     padding: 20px;
+    margin: 20px;
 }
 nav ul li a {
     color: blueviolet;
@@ -31,12 +33,11 @@ footer{
     background-color: brown;
     color: black;
 }
-#about{
-    color: whitesmoke;
-    background-color: black;
-    padding: 20px;
-}
 button :hover{
     color: red;
     background-color: azure;
+}
+h2{
+    padding: 20px;
+    margin: 20px;
 }
