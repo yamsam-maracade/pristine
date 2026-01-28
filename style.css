@@ -5,7 +5,7 @@ body{
 }
 header{
     color: azure;
-    background-color: darkblue
+    background-color: darkblue;
     padding: 20px;
 }
 nav ul li a {
