@@ -4,8 +4,8 @@ body{
     background-color: aquamarine;
 }
 header{
-    color: azure;
-    background-color: darkblue;
+    color: darkblue;
+    background-color: azure;
     padding: 20px;
 }
 nav ul li a {
