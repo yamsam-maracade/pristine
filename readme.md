@@ -26,6 +26,10 @@ When you step into The Pristine Barbershop & Spa, you'll be welcomed by our dedi
 
 - **Email**: [pristinebarberandspa@gmail.com]
 - **Phone**: +254727649369
+## Author 
+
+- https://github.com/yamsam-maracade
+
 
 ### Contact Form
 
