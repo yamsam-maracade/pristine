@@ -32,6 +32,8 @@ footer{
     color: black;
 }
 #about{
+    color: whitesmoke;
+    background-color: black;
     padding: 20px;
 }
 button :hover{
