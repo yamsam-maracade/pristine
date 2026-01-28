@@ -4,7 +4,7 @@ The Pristine Barber & Spa is where you will find one of the best barbers in town
 - SERVICES
 - ABOUT US
 - CONTACTS
-## ## Services
+## Services
 
 1. **Haircuts**  
    A good haircut makes everything look around you. Experience greatness with our professional barbers.
